@@ -7,6 +7,13 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>test-client</name>
 	<description>try to use spring-swagger-wrodnik-client</description>
+	<repositories>
+		<repository>
+			<id>CS180A site</id>
+			<name>Mills CS180A repository</name>
+			<url>http://spertus.com/cs180a</url>
+		</repository>
+	</repositories>
 	<dependencies>
 		<dependency>
 			<groupId>edu.mills.cs180a</groupId>
